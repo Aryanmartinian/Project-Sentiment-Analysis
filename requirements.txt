@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+plotly
+numpy
+
+# Run the below command in the anconda terminal or in the Command Prompt to 
+# install required Libraries-
+'''pip install -r requirements.txt'''
